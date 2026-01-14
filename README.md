@@ -55,5 +55,3 @@ Expected R²: **0.65 – 0.80** (realistic for real-life data)
 * Understanding real-world regression problems
 
 ---
-
-**Author:** Diwakar Mahotra
